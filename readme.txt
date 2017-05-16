@@ -1,2 +1,2 @@
 Hello this is my first commit
-hello i am editing this
+hello i am editing this project
